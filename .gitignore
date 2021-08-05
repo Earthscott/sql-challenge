@@ -3,4 +3,6 @@ jupyter/db_pwd.py
 
 # Ignore all Jupyter cache/checkpoint files
 */__pycache__/*
+__pycache__
 */.ipynb_checkpoints/*
+.ipynb_checkpoints
