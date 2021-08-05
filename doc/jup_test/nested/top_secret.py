@@ -1,0 +1,1 @@
+whisper = "I can tell you but I'd have to kill you"
