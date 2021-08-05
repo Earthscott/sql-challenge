@@ -1,8 +1,8 @@
 # Ignore password file
 jupyter/db_pwd.py
 
-# Ignore all Jupyter cache/checkpoint files
-*/__pycache__/*
+# Ignore all Jupyter checkpoints and __pycache__ folders
+.ipynb_checkpoints
 __pycache__
 */.ipynb_checkpoints/*
-.ipynb_checkpoints
+*/__pycache__/*
